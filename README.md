@@ -41,12 +41,11 @@ Source code for our EMNLP-2022-Findings paper: Alleviating Sparsity of Open Know
 ### Citation
 Please cite our paper if you use this code in your work.
 
-        @ARTICLE{TernaryCL,
-          author={Li, Qian and Wang, Daling and Feng, Shi and Niu, Cheng and Zhang, Yifei},
-          journal={EMNLP Findings 2022}, 
-          title={Alleviating Sparsity of Open Knowledge Graphs with Ternary Contrastive Learning}, 
-          year={2022}
-          }
+        @article{li2022alleviating, 
+        title={Alleviating Sparsity of Open Knowledge Graphs with Ternary Contrastive Learning}, 
+        author={Li, Qian and Joty, Shafiq and Wang, Daling and Feng, Shi and Zhang, Yifei}, 
+        journal={Findings of EMNLP 2022}, 
+        year={2022} }
 
 
 For any clarification, comments, or suggestions please create an issue or contact feiwangyuzhou@foxmail.com
